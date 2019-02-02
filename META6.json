@@ -1,0 +1,25 @@
+{
+  "api": "0",
+  "authors": [
+    "J.M. Thiessen <jacob@x0rz3q.com>"
+  ],
+  "depends": [
+    
+  ],
+  "description": "Number Field implementation",
+  "license": "MIT",
+  "meta-version": 0,
+  "name": "Math::Number::Field",
+  "perl": "6.c",
+  "provides": {
+    
+  },
+  "resources": [
+    
+  ],
+  "source-url": "https://github.com/x0rz3q/p6-math-number-field",
+  "tags": [
+    
+  ],
+  "version": "0.0.0"
+}

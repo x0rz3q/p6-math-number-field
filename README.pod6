@@ -1,0 +1,23 @@
+=begin pod
+
+=NAME    Math::Number::Field
+=AUTHOR  J.M. Thiessen <jacob@x0rz3q.com>
+=VERSION 0.0.0
+
+=head1 Description
+
+Number Field implementation
+
+=head1 Installation
+
+Install this module through L<zef|https://github.com/ugexe/zef>:
+
+=begin code :lang<sh>
+zef install Math::Number::Field
+=end code
+
+=head1 License
+
+This module is distributed under the terms of the MIT.
+
+=end pod
